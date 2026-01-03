@@ -1,5 +1,4 @@
-Hi, I am Mathew Chan.
-Just graduate with BSc (Honours) Computing and IT (Software).
+Hi, I’m Mathew Chan. I recently graduated with a BSc (Hons) in Computing and IT (Software).
 
 <!---
 HHMathewChan/HHMathewChan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
